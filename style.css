@@ -2,14 +2,14 @@ body {
   background-color: #F7F9FC;
   font-family: 'Mukta', sans-serif;
   color: #14213d;
-  font-size:15px;
+  font-size: 15px;
   line-height: 50px;
 }
 
 h1, h2, h3 {
   color: #05668d;
   font-family: 'Roboto' sans-serif;
-  line-height: 30px; /*changed line height */
+  line-height: 35px; /*changed line height */
 }
 
 h1 {
