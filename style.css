@@ -9,7 +9,7 @@ body {
 h1, h2, h3 {
   color: #05668d;
   font-family: 'Roboto' sans-serif;
-  line-height: 30px;
+  line-height: 30px; /*changed line height */
 }
 
 h1 {
